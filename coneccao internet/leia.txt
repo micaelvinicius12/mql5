@@ -1,0 +1,1 @@
+exemplo: https://medium.com/@rabist/mql5-http-web-request-using-wininet-dll-d88732424d80
